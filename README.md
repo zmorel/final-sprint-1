@@ -1,1 +1,2 @@
-# final-sprint-1
+# HW6_BAIS3300
+ Homework 6
